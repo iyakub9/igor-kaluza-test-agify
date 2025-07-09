@@ -1,0 +1,14 @@
+{
+  "name": "igor-kaluza-test-agify",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^9.0.0",
+    "@playwright/test": "^1.45.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.5.3"
+  }
+}

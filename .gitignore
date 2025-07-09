@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# TypeScript build output
+dist/
+out/
+out-tsc/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor configs
+.vscode/
+.idea/  # for WebStorm/IntelliJ
+
+# Cucumber cache
+.cucumber/
+
+# Others
+.pnp
+.pnp.js
+
+# MacOS & Linux system files
+.DS_Store
+Thumbs.db
